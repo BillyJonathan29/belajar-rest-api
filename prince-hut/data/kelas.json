@@ -1,0 +1,109 @@
+{
+    "kelas": [
+        {
+            "kategori": "Teknik Informatika",
+            "nama": "Billy Jonathan",
+            "deskripsi": "Saya Akan Menjadi Seorang FullStack Developer",
+            "nim": 20240810015,
+            "gambar": "../img/kelas/1.jpg"
+        },
+        {
+            "kategori": "Sistem Informasi",
+            "nama": "Kiki",
+            "deskripsi": "Saya Akan Menjadi Seorang FullStack Developer",
+            "nim": 20240810016,
+            "gambar": "../img/kelas/2.jpg"
+        },
+        {
+            "kategori": "Teknik Informatika",
+            "nama": "Fikry",
+            "deskripsi": "Saya Akan Menjadi Seorang FullStack Developer",
+            "nim": 20240810017,
+            "gambar": "../img/kelas/3.jpg"
+        },
+        {
+            "kategori": "Teknik Informatika",
+            "nama": "Haikal",
+            "deskripsi": "Saya Akan Menjadi Seorang FullStack Developer",
+            "nim": 20240810018,
+            "gambar": "../img/kelas/4.jpg"
+        },
+        {
+            "kategori": "Sistem Informasi",
+            "nama": "Nazwa",
+            "deskripsi": "Saya Akan Menjadi Seorang FullStack Developer",
+            "nim": 20240810019,
+            "gambar": "../img/kelas/5.jpg"
+        },
+        {
+            "kategori": "Sistem Informasi",
+            "nama": "Ade",
+            "deskripsi": "Saya Akan Menjadi Seorang FullStack Developer",
+            "nim": 20240810020,
+            "gambar": "../img/kelas/6.jpg"
+        },
+        {
+            "kategori": "Teknik Informatika",
+            "nama": "Kania",
+            "deskripsi": "Saya Akan Menjadi Seorang FullStack Developer",
+            "nim": 20240810021,
+            "gambar": "../img/kelas/7.jpg"
+        },
+        {
+            "kategori": "Sistem Informasi",
+            "nama": "Dea",
+            "deskripsi": "Saya Akan Menjadi Seorang FullStack Developer",
+            "nim": 20240810022,
+            "gambar": "../img/kelas/8.jpg"
+        },
+        {
+            "kategori": "Teknik Informatika",
+            "nama": "Ido",
+            "deskripsi": "Saya Akan Menjadi Seorang FullStack Developer",
+            "nim": 20240810023,
+            "gambar": "../img/kelas/9.jpg"
+        },
+        {
+            "kategori": "Teknik Informatika",
+            "nama": "dhani",
+            "deskripsi": "Saya Akan Menjadi Seorang FullStack Developer",
+            "nim": 20240810024,
+            "gambar": "../img/kelas/10.jpg"
+        },
+        {
+            "kategori": "Sistem Informasi",
+            "nama": "Apply",
+            "deskripsi": "Saya Akan Menjadi Seorang FullStack Developer",
+            "nim": 20240810030,
+            "gambar": "../img/kelas/1.jpg"
+        },
+        {
+            "kategori": "Sistem Informasi",
+            "nama": "Desta",
+            "deskripsi": "Saya Akan Menjadi Seorang FullStack Developer",
+            "nim": 20240810027,
+            "gambar": "../img/kelas/2.jpg"
+        },
+        {
+            "kategori": "Teknik Informatika",
+            "nama": "Arif",
+            "deskripsi": "Saya Akan Menjadi Seorang FullStack Developer",
+            "nim": 20240810028,
+            "gambar": "../img/kelas/3.jpg"
+        },
+        {
+            "kategori": "Sistem Informasi",
+            "nama": "Irul",
+            "deskripsi": "Saya Akan Menjadi Seorang FullStack Developer",
+            "nim": 20240810029,
+            "gambar": "../img/kelas/4.jpg"
+        },
+        {
+            "kategori": "Teknik Informatika",
+            "nama": "Fadli",
+            "deskripsi": "Saya Akan Menjadi Seorang FullStack Developer",
+            "nim": 20240810030,
+            "gambar": "../img/kelas/5.jpg"
+        }
+    ]
+}

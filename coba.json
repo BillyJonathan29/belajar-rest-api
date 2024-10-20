@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Billy Jonathan",
+        "umur": 17,
+        "nim": "20240810015",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Tito Sugiharto. S.Kom, M.Kom",
+            "pembimbing2": "Daswa, S.Kom"
+        }
+    },
+    {
+        "nama": "Billy Jonathan",
+        "umur": 17,
+        "nim": "20240810015",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Tito Sugiharto. S.Kom, M.Kom",
+            "pembimbing2": "Daswa, S.Kom"
+        }
+    }
+]
